@@ -1,9 +1,9 @@
 # Car Detection by YOLO8
 
 ## Resource
-[Basketball detection](https://github.com/ericstar20/ML_BasketBall_Detect)  
-[How to Train a YOLOv8 Oriented Bounding Boxes Model](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-obb.ipynb)  
-[Dataset of cars](https://universe.roboflow.com/roboflow-100/vehicles-q0x2v)
+- [Basketball detection](https://github.com/ericstar20/ML_BasketBall_Detect)  
+- [How to Train a YOLOv8 Oriented Bounding Boxes Model](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov8-obb.ipynb)  
+- [Dataset of cars](https://universe.roboflow.com/roboflow-100/vehicles-q0x2v)
 
 ## Description
 Detect car on highway using YOLO8n model. Model was pretrained on Colab.
