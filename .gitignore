@@ -1,7 +1,2 @@
-/test
-/train
-/valid
 /car_detection
-test_video.mp4
-mini.mp4
-result.mp4
+/video
