@@ -17,14 +17,23 @@ Image or video
 ![Result GIF](./assets/mini_result.gif)
 
 ## Usage
+
+### Clone repo and install requirements
+```sh
+git clone https://github.com/huhj225131/Car-Detection-YOLO8.git
+pip install requirements
+```
 ### For image
 ```sh
 python yolo.py -i <image_path> -y <YOLO_model_path> -c <confidence> -t <threshold>
 ```
+
 Output: result.jpg
 ### For video
 ```sh
 python yolo_v.py -v <video_path> -y <YOLO_model_path> -c <confidence> -t <threshold>
 ```
 Output: result.mp4
+
+It has two weights files in YOLO_8 directory, if you want to use new weights, change the file "best.pt" to another name and "best_update.pt" to "best.pt"
 
